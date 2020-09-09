@@ -11,11 +11,11 @@ visualization/optimizers.py
 
 &nbsp;
 ## Table of Contents
-1. [Tensors and Variables](basics/tensors_and_variables.ipynb)
-2. [Jacobian Matrix and Gradient](basics/jacobian_matrix_and_gradient.ipynb)
-3. [Activation Functions](basics/activation_functions.ipynb)
-4. [Objective Functions](basics/objective_functions.ipynb)
-5. [Gradient Descent](basics/gradient_descent.ipynb)
-6. [Optimizers](basics/optimizers.ipynb)
-7. [Tensorflow Data](basics/tensorflow_data.ipynb)
-8. [Multilayer Perceptron](basics/multilayer_perceptron.ipynb)
+1. [Tensors and Variables](tensors_and_variables.ipynb)
+2. [Jacobian Matrix and Gradient](jacobian_matrix_and_gradient.ipynb)
+3. [Activation Functions](activation_functions.ipynb)
+4. [Objective Functions](objective_functions.ipynb)
+5. [Gradient Descent](gradient_descent.ipynb)
+6. [Optimizers](optimizers.ipynb)
+7. [Tensorflow Data](tensorflow_data.ipynb)
+8. [Multilayer Perceptron](multilayer_perceptron.ipynb)
