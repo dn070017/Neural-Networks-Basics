@@ -9,12 +9,11 @@ bokeh serve --show visualization/[file.py]
 ```
 
 ## Table of Contents
-1. [Basics](basics/)
-    1. [Tensors and Variables](basics/tensors_and_variables.ipynb)
-    2. [Jacobian Matrix and Gradient](basics/jacobian_matrix_and_gradient.ipynb)
-    3. [Activation Functions](basics/activation_functions.ipynb)
-    4. [Objective Functions](basics/objective_functions.ipynb)
-    5. [Gradient Descent](basics/gradient_descent.ipynb)
-    6. [Optimizers](basics/optimizers.ipynb)
-    7. [Tensorflow Data](basics/tensorflow_data.ipynb)
-    8. [Multilayer Perceptron](basics/multilayer_perceptron.ipynb)
+### [Tensors and Variables](notebooks/tensors_and_variables.ipynb)
+### [Jacobian Matrix and Gradient](notebooks/jacobian_matrix_and_gradient.ipynb)
+### [Activation Functions](notebooks/activation_functions.ipynb)
+### [Objective Functions](notebooks/objective_functions.ipynb)
+### [Gradient Descent](notebooks/gradient_descent.ipynb)
+### [Optimizers](notebooks/optimizers.ipynb)
+### [Tensorflow Data](notebooks/tensorflow_data.ipynb)
+### [Multilayer Perceptron](notebooks/multilayer_perceptron.ipynb)
